@@ -11,7 +11,7 @@ public class MenuPrincipal {
     	DespachoCrud despachoCrud = new DespachoCrud();
     	try {
             while (true) {
-                System.out.println("Bienvenido al Menú Principal");
+                System.out.println("\nBienvenido al Menú Principal");
                 
                 if (rol.equals("admin")) {
                     System.out.println("1.- Ver despachos");

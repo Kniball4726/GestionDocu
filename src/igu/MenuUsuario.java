@@ -7,7 +7,7 @@ public class MenuUsuario {
     public static void MenuU(){
         UsuariosCrud usuariosCrud = new UsuariosCrud();
         while (true) {
-            System.out.println("--- Gestión de usuarios ---");
+            System.out.println("\n--- Gestión de usuarios ---");
             System.out.println("1.- Crear usuario");
             System.out.println("2.- Listar usuarios");
             System.out.println("3.- Buscar usuario");
