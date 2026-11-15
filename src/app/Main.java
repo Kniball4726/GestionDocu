@@ -1,4 +1,4 @@
-package gestiondocu;
+package app;
 import igu.Login;
 import igu.MenuPrincipal;
 public class Main {
